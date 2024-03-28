@@ -1,0 +1,67 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/include",
+      "-c",
+      "-o",
+      "CMakeFiles/fixedcapbimap.dir/src/App.cpp.o",
+      "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/App.cpp"
+    ],
+    "directory": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap",
+    "file": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/App.cpp",
+    "output": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/CMakeFiles/fixedcapbimap.dir/src/App.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/include",
+      "-c",
+      "-o",
+      "CMakeFiles/fixedcapbimap.dir/src/ExtendedTest.cpp.o",
+      "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/ExtendedTest.cpp"
+    ],
+    "directory": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap",
+    "file": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/ExtendedTest.cpp",
+    "output": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/CMakeFiles/fixedcapbimap.dir/src/ExtendedTest.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/include",
+      "-c",
+      "-o",
+      "CMakeFiles/fixedcapbimap.dir/src/FixedCapBiMap.cpp.o",
+      "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/FixedCapBiMap.cpp"
+    ],
+    "directory": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap",
+    "file": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/FixedCapBiMap.cpp",
+    "output": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/CMakeFiles/fixedcapbimap.dir/src/FixedCapBiMap.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/include",
+      "-c",
+      "-o",
+      "CMakeFiles/fixedcapbimap.dir/src/FixedCapBiMapIterator.cpp.o",
+      "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/FixedCapBiMapIterator.cpp"
+    ],
+    "directory": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap",
+    "file": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/FixedCapBiMapIterator.cpp",
+    "output": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/CMakeFiles/fixedcapbimap.dir/src/FixedCapBiMapIterator.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/include",
+      "-c",
+      "-o",
+      "CMakeFiles/fixedcapbimap.dir/src/ShortTest.cpp.o",
+      "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/ShortTest.cpp"
+    ],
+    "directory": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap",
+    "file": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/src/ShortTest.cpp",
+    "output": "/home/osaki/SCHOOL/s2/dsa/FixedCapBiMap/CMakeFiles/fixedcapbimap.dir/src/ShortTest.cpp.o"
+  }
+]
